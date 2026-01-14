@@ -58,4 +58,4 @@ I have created and maintained documentation for companies such as:
 - [API Reference](docs/api/api-reference.md)
 - [Getting Started Guide](docs/guides/getting-started.md)
 - [Installation & Configuration](docs/configuration/installation.md)
-- [Release Notes v1.0](docs/release-notes/v1)
+- [Release Notes v1.0](docs/release-notes/v1.md)
